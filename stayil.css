@@ -1,0 +1,215 @@
+body {
+    text-align: center;
+    color: #FFF5FD;
+  }
+
+  html, body {max-width: 100%; overflow-x: hidden;}
+  
+  header {
+    background-color: #DEEDF0;
+  }
+  
+  header h1 {
+    color: #F4C7AB;
+    font-family: 'Dancing Script', cursive;
+    font-size: 6rem;
+    padding-top: 16px;
+  }
+
+
+  header p {color: #F4C7AB;}
+
+
+
+
+
+
+
+
+
+
+
+  .nav-link, .navbar-brand  {
+
+
+
+
+
+    color: #5b5e54;
+  }
+
+
+
+
+
+
+  .nav-link:visited, .navbar-brand:visited {color: #5b5e54;}
+
+
+
+
+  .nav-link:hover, .navbar-brand:hover {color: #F4C7AB;}
+
+
+
+
+
+
+
+
+
+
+  .nav-link:active, .navbar-brand:active {color: #5b5e54;}
+
+
+
+
+
+
+
+
+
+
+
+
+  header h3 {color: #F4C7AB;}
+  
+  header img {
+    width: 16%;
+    border-radius: 60%;
+    margin-top: 30px;
+    min-width: 200px;
+  }
+  
+  .navbar-brand {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 3px;
+    padding-left: 1.6%;
+  }
+  
+  .capton {
+    font-size: 1.3rem;
+    margin-top: 18px;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 600;
+  }
+  
+  .ms-auto {
+    width: 6%;
+  }
+
+
+
+
+
+
+
+.toplam {margin-top: 60px; margin-left: -160px;}
+
+
+
+
+
+
+
+
+
+
+
+#mywork {background-color: #FFF5FD; color:#022E57;}
+
+
+
+
+
+#mywork h3 {padding: 3%; font-family: 'Rajdhani', sans-serif; font-size: 3.3rem;}
+
+
+.basari {width: 70%; padding: 8% 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.paddingekle {padding-bottom: 6%;}
+#resume {
+    background-color: #005A8D;
+}
+
+
+
+#resume h3 {padding: 9% 0 3%; font-size: 3rem; font-family: 'Rajdhani', sans-serif;}
+
+
+.pdf {display: inline-block; text-decoration: none; color: black;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+
+
+    margin-bottom: 6%;
+}
+
+
+
+
+
+
+@media (max-width: 769px) {
+    .toplam {
+
+        margin: 0;
+
+    }
+    .ib {
+
+
+        margin: 90px auto 30px auto;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .yazi {
+
+
+    margin: auto;
+    }
+}
