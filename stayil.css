@@ -1,0 +1,73 @@
+body {
+  background-color: #CDF0EA;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.ib-section {
+  margin: 60px 0;
+}
+
+.ib {
+  max-width: 200px;
+}
+
+.name {
+  font-family: 'Great Vibes', cursive;
+  font-size: 4.8rem;
+  letter-spacing: 0.3px;
+}
+
+.caption {
+  font-size: 1.4rem;
+  letter-spacing: 0.8px;
+}
+
+.myimage {
+  max-width: 18%;
+  border-radius: 14%;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #555555;
+}
+
+.navbar-brand {
+  margin-left: 10px;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  color: black;
+}
+
+#mywork {
+  background-color: #ECC5FB;
+}
+
+#mywork h3 {
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.basari {
+  max-width: 80%;
+}
+
+
+
+#resume {
+  background-color: #FAF4B7;
+  padding-top: 60px;
+  text-align: center;
+}
+
+.pdf {
+  text-decoration: none;
+  color: #555555;
+  font-weight: 600;
+}
+
+.pdf:hover {
+  color: black;
+}
